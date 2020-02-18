@@ -1,0 +1,65 @@
+@font-face {
+	font-family: "vecfont";
+	src: url('//at.alicdn.com/t/font_1471324_bxkiw2z6ujn.eot');
+	src: url('//at.alicdn.com/t/font_1471324_bxkiw2z6ujn.eot?#iefix') format('embedded-opentype'),
+		url('//at.alicdn.com/t/font_1471324_bxkiw2z6ujn.woff2') format('woff2'),
+		url('//at.alicdn.com/t/font_1471324_bxkiw2z6ujn.woff') format('woff'),
+		url('//at.alicdn.com/t/font_1471324_bxkiw2z6ujn.ttf') format('truetype'),
+		url('//at.alicdn.com/t/font_1471324_bxkiw2z6ujn.svg#iconfont') format('svg');
+}
+
+.vecfont {
+	font-family: "vecfont" !important;
+	font-size: 16px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icontuijian:before {
+	content: "\e60e";
+}
+
+.iconchangjingtuijian:before {
+	content: "\e622";
+}
+
+.iconxinaixin:before {
+	content: "\e628";
+}
+
+.iconguanyuwomen:before {
+	content: "\e679";
+}
+
+.iconguanzhu:before {
+	content: "\e75a";
+}
+
+.iconyijianfankui1:before {
+	content: "\eb42";
+}
+
+.icontuijian1:before {
+	content: "\e614";
+}
+
+.iconxinaixin_fuzhi:before {
+	content: "\e602";
+}
+
+.iconxinaixin_fuzhi1:before {
+	content: "\e603";
+}
+
+.iconzhanghushezhi4:before {
+	content: "\e6e0";
+}
+
+.iconhuiyuan2:before {
+	content: "\e638";
+}
+
+.iconshu-copy-copy:before {
+	content: "\e604";
+}
